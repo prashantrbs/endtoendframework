@@ -17,6 +17,5 @@ let formpage=function()
     {
         name.sendKeys(fname);
     }
-    
 };
 module.exports=new formpage();  
